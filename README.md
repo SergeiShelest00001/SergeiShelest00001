@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning and focusing on increasing my skills and knowledge, such as data anaylasis.
+I'm expanding my skills in data analysis, Databricks, machine learning, DevOps, cloud security, and secure programming while completing my bachelor's.
 
 
 ## 🌐 Socials:
